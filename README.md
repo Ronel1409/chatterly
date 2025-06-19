@@ -1,6 +1,3 @@
-### 💬 **Chat App – Chatterly**
-
-```markdown
 # Chatterly
 
 A secure, real-time chat app with a beautiful UI and fast messaging experience using WebSocket technology.
