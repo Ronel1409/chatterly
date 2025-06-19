@@ -17,7 +17,7 @@ A secure, real-time chat app with a beautiful UI and fast messaging experience u
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/chatterly.git
+git clone https://github.com/Ronel1409/chatterly.git
 cd chatterly
 npm install
 npm start
